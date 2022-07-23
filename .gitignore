@@ -1,0 +1,5 @@
+# 忽略test.js文件
+test.js
+
+# 忽略test文件夹中的文件
+test/
